@@ -12,6 +12,7 @@
 <br>
 ### Social:
 <div>
+ <a href="https://api.whatsapp.com/send?phone=5598984623626&text=Ol%C3%A1%20GD!" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  <a href="https://facebook.com/gedeoncordeiro92" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/gedeoncordeiro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/gedeoncordeiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
