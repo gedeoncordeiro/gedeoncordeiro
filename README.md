@@ -1,28 +1,27 @@
-## Olá, me chamo Gedeon Cordeiro, the Incredible GD! 
-### Hello, Devs!!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gedeoncordeiro&color=green" alt="Profile views" /> </p>
+👋 Olá, eu sou Gedeon Cordeiro
+🚀 The Incredible GD
 
-### Estou estudando:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>
- <br>
-### Especialidades:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" width="40" height="40"/>
-<br>
-### Social:
-<div>
- <a href="https://api.whatsapp.com/send?phone=5598984623626&text=Ol%C3%A1%20GD!" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- <a href="https://facebook.com/gedeoncordeiro92" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-<a href="https://www.youtube.com/gedeoncordeiro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/gedeoncordeiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!-- <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
-<a href = "mailto:gedeon.donn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gedeoncordeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-<br><br><br>
-<div>
-<a href="https://github.com/gedeoncordeiro">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedeoncordeiro&layout=compact&langs_count=7&theme=merko"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gedeoncordeiro&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-</div>
+💻 Desenvolvedor Web | 🎨 Designer Criativo | 🎓 Profissional de TI
+
+Sou apaixonado por tecnologia, desenvolvimento web e design digital.
+Transformo ideias em soluções criativas, funcionais e modernas.
+
+🚀 Tech Stack
+💻 Desenvolvimento
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="45"/> </p>
+🎨 Design & Criação
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" width="45"/> </p>
+📊 Estatísticas GitHub
+<div align="center"> <a href="https://github.com/gedeoncordeiro"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gedeoncordeiro&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedeoncordeiro&layout=compact&langs_count=7&theme=merko"/> </div>
+🌐 Conecte-se comigo
+<p> <a href="https://api.whatsapp.com/send?phone=5598984623626"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> <a href="https://facebook.com/gedeoncordeiro92"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://www.youtube.com/gedeoncordeiro"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> <a href="https://instagram.com/gedeoncordeiro"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="mailto:gedeon.donn@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/gedeoncordeiro"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+🧠 Sobre mim
+
+🎓 Graduado em Redes de Computadores
+🖥️ Profissional de Tecnologia da Informação
+🎯 Foco em desenvolvimento web moderno
+📚 Sempre aprendendo algo novo
+
+⚡ Frase que me define
+
+“Tecnologia não é apenas código. É criar soluções que impactam pessoas.”
